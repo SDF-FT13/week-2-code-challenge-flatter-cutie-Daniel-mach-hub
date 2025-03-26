@@ -23,7 +23,7 @@ json-server --watch db.json
 
 Test your server by visiting this route in the browser:
 
-[http://localhost:3000/characters](http://localhost:3000/characters)
+[http://localhost:3000/](http://localhost:3000/characters)
 
 Then, open the `index.html` file on your browser to run the application.
 
@@ -42,14 +42,14 @@ As a user, I can:
    ```txt
    GET /characters
 
-   Example Response:
+   Example Response:l;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
    [
     {
       "id": 1,
       "name": "Mr. Cute",
       "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
       "votes": 0
-    },
+    },characters
     {
       "id": 2,
       "name": "Mr. Monkey",
